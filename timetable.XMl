@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "timetable.dtd">
+<timeTable>
+    <complexes>
+        <complex code="C01">
+            <name>Учебный корпус № 1</name>
+            <address>ул. Центральная, 10</address>
+        </complex>
+        <complex code="C02">
+            <name>Учебный корпус № 2</name>
+            <address>пр. Университетский, 5</address>
+        </complex>
+    </complexes>
+    <lessons>
+        <lesson no="101" complex="C01">
+            <date>2026-09-01</date>
+            <time>09:00</time>
+        </lesson>
+        <lesson no="102" complex="C02">
+            <date>2026-09-01</date>
+            <time>10:30</time>
+        </lesson>
+    </lessons>
+</timeTable>
